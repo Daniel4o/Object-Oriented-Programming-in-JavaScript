@@ -10,5 +10,5 @@ Object-oriented programming(OOP) is programming model that organizes software de
 
 **-Encapsulation**: Is when we group related variables and funtcions that operate on them into objects;  
 **-Abstraction**: Is to handle complexity by hiding unnecessary details from the user. Basically it goal is to 'show' essential attributes and 'hide' unnecessary information
-**-Inheritance**
+**-Inheritance**: Is a mechanism of basing an object or class upon another object or class, retaining similar implementation  
 **-Polymorphism**
