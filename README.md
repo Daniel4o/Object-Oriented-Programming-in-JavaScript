@@ -8,7 +8,7 @@ Object-oriented programming(OOP) is programming model that organizes software de
 
 ## 4 Pillars of Object-oriented Programming  
 
-**-Encapsulation**: Is when we group related variables and funtcions that operate on them into objects;  
-**-Abstraction**: Is to handle complexity by hiding unnecessary details from the user. Basically it goal is to 'show' essential attributes and 'hide' unnecessary information
-**-Inheritance**: Is a mechanism of basing an object or class upon another object or class, retaining similar implementation  
-**-Polymorphism**
+**-Encapsulation**: Is when we build variables and functions that work on that data within one unit, like _classes_. This concept is also used to hide the internal represantation, or state of an object from the outside- _information hiding_  
+**-Abstraction**: Is to handle complexity by hiding unnecessary details from the user. Basically it goal is to 'show' essential   attributes and 'hide' unnecessary information-_information hiding_  
+**-Inheritance**: Is a mechanism of basing an object or class upon another object or class, retaining similar implementation-_extends_      
+**-Polymorphism**: Is the act of redefining a method inside a derived child class of a parent- _overriding_
